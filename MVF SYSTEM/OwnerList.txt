@@ -1,0 +1,17 @@
+avx/123
+
+abc/23
+abc/2
+avx/23
+avx/1233
+avx/12
+avx/22232
+avx/123
+avx/123
+avx/123
+avx/123
+avx/1234
+avx/123453453
+avx/123
+avx/123
+AVX/123

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Customer
+comment0.text=\n\ Write\ a\ description\ of\ class\ Customer\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=name\ pass\ a\ p
+comment1.target=Customer(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=id\ name\ pass\ a\ p
+comment2.target=Customer(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=p
+comment3.target=void\ addProduct(java.util.ArrayList)
+comment4.params=name
+comment4.target=java.util.ArrayList\ getOrderList(java.lang.String)
+comment5.params=o
+comment5.target=void\ removeOrder(Order)
+numComments=6

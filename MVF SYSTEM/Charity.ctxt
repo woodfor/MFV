@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Charity
+comment1.params=
+comment1.target=Charity()
+comment2.params=n\ address
+comment2.target=Charity(java.lang.String,\ java.lang.String)
+comment3.params=n\ address\ p
+comment3.target=Charity(java.lang.String,\ java.lang.String,\ Product)
+comment4.params=p
+comment4.target=void\ addProduct(Product)
+comment5.params=id
+comment5.target=boolean\ containProduct(java.lang.String)
+comment6.params=
+comment6.target=java.util.ArrayList\ getProductList()
+comment7.params=
+comment7.target=java.lang.String\ getName()
+comment8.params=
+comment8.target=java.lang.String\ getAddress()
+comment9.params=
+comment9.target=java.lang.String\ getID()
+numComments=10

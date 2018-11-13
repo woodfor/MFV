@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Order
+comment1.params=
+comment1.target=Order()
+comment2.params=p
+comment2.target=void\ addPList(java.util.ArrayList)
+comment3.params=p
+comment3.target=void\ setPaid(boolean)
+comment4.params=
+comment4.target=boolean\ getPaid()
+comment5.params=
+comment5.target=java.util.ArrayList\ getProductList()
+comment6.params=
+comment6.target=double\ getTotal()
+comment7.params=
+comment7.target=java.lang.String\ getCreateTime()
+comment8.params=
+comment8.target=java.lang.String\ getID()
+numComments=9
